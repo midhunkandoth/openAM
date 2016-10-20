@@ -1,0 +1,6 @@
+$env:DOCKER_HOST="tcp://172.99.65.201:2376"
+$env:DOCKER_TLS_VERIFY=1
+$env:DOCKER_CERT_PATH=$PSScriptRoot
+
+$env:DOCKER_VERSION="1.11.2
+"
